@@ -1,0 +1,34 @@
+<resources>
+
+    <string name="app_name">RickAndMorty</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="retry">Retry</string>
+
+    // All Characters Screen
+    <string name="title_all_characters">All Characters</string>
+
+    // Favorite Characters Screen
+    <string name="title_favorite_characters">Favorite Characters</string>
+    <string name="empty_message_characters">No characters found</string>
+
+    // Detail Character Screen
+    <string name="title_detail_character">Detail Character</string>
+
+
+
+    <string name="cd_character_image">character image</string>
+    <string name="cd_status_color">status color</string>
+    <string name="title_character_last_location">Last known location:</string>
+    <string name="content_description_favorite_character_button">favorite character button</string>
+    <string name="error_characters_not_loaded">Characters could not be loaded</string>
+
+    <string name="dialog_title_delete_character_from_favorite">Delete Character From Favorite</string>
+    <string name="dialog_message_delete_character_from_favorite">Are you sure to delete %s from favorite?</string>
+    <string name="empty_message_no_characters">No characters found</string>
+    <string name="error_message_characters_could_not_be_loaded">Characters could not be loaded</string>
+    <string name="title_origin_location">Origin Location:</string>
+    <string name="character_last_known_location">Last known location:</string>
+
+
+</resources>

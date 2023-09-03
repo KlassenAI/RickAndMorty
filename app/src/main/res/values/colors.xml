@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    // Base Colors
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="yellow">#FFFF00</color>
+
+    // Toolbar
+    <color name="background_toolbar">#6200EE</color>
+    <color name="title_text_color_toolbar">#FFFFFF</color>
+
+    // Character Favorite Status
+    <color name="character_favorite_true">#FF9800</color>
+    <color name="character_favorite_false">#FFFFFF</color>
+
+    // Character Status
+    <color name="character_status_alive">#55CC44</color>
+    <color name="character_status_dead">#D63D2E</color>
+    <color name="character_status_unknown">#9B9C9B</color>
+    <color name="background_character_list_item">#3c3e44</color>
+
+</resources>
